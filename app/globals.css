@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+html,
+body,
+:root {
+  height: 100%;
+}
+
+
+
+@font-face {
+  font-family: "IFKICA";
+  src: url(../public/fonts/IFKica-Regular.ttf);
+}
+
